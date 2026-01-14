@@ -1,0 +1,32 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@matterlabs/hardhat-zksync": "^1.6.2",
+    "@matterlabs/hardhat-zksync-deploy": "^1.8.0",
+    "@matterlabs/hardhat-zksync-solc": "^1.5.1",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.23",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.16.0",
+    "hardhat": "^2.28.3",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "zksync-ethers": "^6.21.0"
+  },
+  "dependencies": {
+    "@metamask/sdk": "^0.34.0",
+    "@openzeppelin/contracts": "^5.4.0"
+  }
+}
