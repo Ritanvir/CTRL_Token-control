@@ -14,7 +14,7 @@ export default function UserPage() {
       <div className="mt-10">
         <h1 className="text-4xl font-extrabold text-white">User Dashboard</h1>
         <p className="mt-2 text-white/70">
-          Balance, vesting claim, transfer info — সব এখানে থাকবে।
+          Balance, vesting claim, transfer info 
         </p>
       </div>
 
