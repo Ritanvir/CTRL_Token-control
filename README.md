@@ -45,7 +45,7 @@ CTRL_Token-control/
 yaml
 Copy code
 
-> **Vercel deploy** করার জন্য frontend root: `contracts/frontend`
+> **Vercel deploy** frontend root: `contracts/frontend`
 
 ---
 
