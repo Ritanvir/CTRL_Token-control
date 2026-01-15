@@ -196,4 +196,6 @@ NEXT_PUBLIC_TOKEN_ADDRESS
 
 NEXT_PUBLIC_APP_NAME
 
-Deploy 
+Deploy
+
+Deploy Link: https://ctrl-token-control-3i3i.vercel.app/
